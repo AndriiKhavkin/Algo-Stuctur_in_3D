@@ -90,6 +90,8 @@ After execution, two SVG files will be generated:
 lab2_metaballs_variant18.svg
 lab2_lemniscate_variant18.svg
 
+---
+
 ## Results
 
 Metaballs surface section
@@ -100,6 +102,8 @@ Multifocal lemniscate section
 
 <img src="lab2_lemniscate_variant18.svg" width="500"/>
 
+---
+
 ## Experiment
 
 The experiment demonstrates the difference between two approaches to implicit surface modeling.
@@ -108,11 +112,15 @@ The metaballs method produces a shape influenced locally by each point, resultin
 
 The multifocal lemniscate produces a smoother and more uniform contour due to the global influence of all points.
 
+---
+
 ## Conclusion
 
 Two implicit surface modeling methods were implemented and analyzed. The cross-sections obtained using Marching Squares satisfy the requirement of being closed and single-connected.
 
 The results show that metaballs provide better local control of shape, while lemniscates produce more stable and smooth contours.
+
+---
 
 ## Author
 
